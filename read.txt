@@ -1,3 +1,7 @@
 hello world
-	DEMAXIYA
+<<<<<<< HEAD
+	demaxiya
+=======
+	demaxiya
+>>>>>>> dev
 hi!
